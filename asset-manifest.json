@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/demo-gohard/static/css/main.afd7172b.chunk.css",
+    "main.js": "/demo-gohard/static/js/main.9bdf2bdf.chunk.js",
+    "main.js.map": "/demo-gohard/static/js/main.9bdf2bdf.chunk.js.map",
+    "runtime-main.js": "/demo-gohard/static/js/runtime-main.6f0477b0.js",
+    "runtime-main.js.map": "/demo-gohard/static/js/runtime-main.6f0477b0.js.map",
+    "static/js/2.6767b851.chunk.js": "/demo-gohard/static/js/2.6767b851.chunk.js",
+    "static/js/2.6767b851.chunk.js.map": "/demo-gohard/static/js/2.6767b851.chunk.js.map",
+    "index.html": "/demo-gohard/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/demo-gohard/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.6767b851.chunk.js.LICENSE.txt": "/demo-gohard/static/js/2.6767b851.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f0477b0.js",
+    "static/js/2.6767b851.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.9bdf2bdf.chunk.js"
+  ]
+}
